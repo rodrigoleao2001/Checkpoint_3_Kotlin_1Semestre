@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_end_inputText">40dp</dimen>
+    <dimen name="margin_start_input_text">40dp</dimen>
+    <dimen name="margin_top_button">50dp</dimen>
+    <dimen name="margin_top_inputText">30dp</dimen>
+    <dimen name="margin_top_tv_transferValue">150dp</dimen>
+    <dimen name="tv_trasnferValue_textSize">20sp</dimen>
+</resources>
